@@ -1,0 +1,4 @@
+# profile.view.php
+# Line 18
+<?php //if(Auth::access('admin') || (Auth::access('reception') && $row->rank == 'student')):?>
+
